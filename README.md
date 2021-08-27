@@ -5,6 +5,8 @@ welcome
 2. itemb
 3. itemc
    1. itemc1
+I want to ride the merry_go_roundis
+different to the merry\_go\_round.
 
 ------ 
 This was an unorderes list
@@ -35,5 +37,3 @@ This is a truth table
 F | F || F | T | F
 | | F | F | F |
 
-I want to ride the merry_go_roundis
-different to the merry\_go\_round.
